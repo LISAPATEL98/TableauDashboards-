@@ -4,7 +4,7 @@ This repository includes my Tableau Projects(Ongoing).<br>
 You can find my Tableau profile [here.](https://public.tableau.com/profile/lisa7954#!/)<br>
 
 
-## Links to Dashboards
+## Links to Dashboard
 <li>
 
 [Global Temperature : Anomalies leaading to global warming](https://public.tableau.com/profile/lisa7954#!/vizhome/TheEarthisheatingupWhatareyoudoingforsavingthePlanet/TheEarthisgettingwarmer)
