@@ -19,7 +19,11 @@ You can find my Tableau profile [here.](https://public.tableau.com/profile/lisa7
 
 [San-Francisco's Airbnb Listings Analysis](https://public.tableau.com/profile/lisa7954#!/vizhome/SanFranciscosAirbnbListingsAnalysis/Airbnb)
 
+<br>
 
+<li>
+ 
+[Coal Mines in India](https://public.tableau.com/profile/lisa7954#!/vizhome/CoalProductioninIndia_16116160336180/CoalProductioninIndia)
 
 <br>
 You can find more details about each visualization below. 
@@ -59,3 +63,12 @@ Data Courtesy : NASA<br>
   By analyzing publicly available information about a city's Airbnb's listings, Inside Airbnb provides filters and key metrics so you can see how Airbnb is being used to compete with the residential housing market.
 
   This dataset contains 8,111 listings in San Francisco of 4,303 hosts from 2009-2019.
+ 
+## <u>Coal mines of India</u>
+Coal use needs to rapidly decline in the global energy mix in the next few decades in order to meet the Paris climate goals of keeping global warming well below 2-degrees Celsius. In emerging economies such as India (the second largest producer and consumer of coal) this would entail reducing long-term coal dependency. 
+This analysis shows depth about how coal mining is done in India.
+ 
+ IMPACT : Climate Change, Just Transitions, Coal Mining <br>
+ 
+ <b>About the Data </b><br>
+  Data Courtesy : Harvard Dataverse<br>
