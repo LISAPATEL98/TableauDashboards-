@@ -27,12 +27,12 @@ You can find my Tableau profile [here.](https://public.tableau.com/profile/lisa7
 <br>
 You can find more details about each visualization below. 
 
-## Global Temperature : Anomalies leaading to global warming</ol>
+## Global Temperature : Anomalies leading to global warming</ol>
 The Charts here show trends in Temperature changes in the Global, Northern & Southern Hemisphere. Derivation are against the baseline period  1951-1980.
 Globally, 2020 was the hottest year on record, effectively tying 2016, the previous record. Overall, Earth’s average temperature has risen more than 2 degrees Fahrenheit since the 1880s. Temperatures are increasing due to human activities, specifically emissions of greenhouse gases, like carbon dioxide and methane.
 
 <br>
-IMPACT : Encourging Individuals for fights aganist Climate Change<br>
+IMPACT : Encouraging Individuals for fights against Climate Change<br>
 
 <b>About the Data </b><br>
 Data Courtesy : NASA<br>
