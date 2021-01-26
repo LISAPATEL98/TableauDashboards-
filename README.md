@@ -18,7 +18,6 @@ You can find my Tableau profile [here.](https://public.tableau.com/profile/lisa7
 
 
 [San-Francisco's Airbnb Listings Analysis](https://public.tableau.com/profile/lisa7954#!/vizhome/SanFranciscosAirbnbListingsAnalysis/Airbnb)
-
 <br>
 
 <li>
