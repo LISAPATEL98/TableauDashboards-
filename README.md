@@ -25,6 +25,12 @@ You can find my Tableau profile [here.](https://public.tableau.com/profile/lisa7
 [Coal Mines in India](https://public.tableau.com/profile/lisa7954#!/vizhome/CoalProductioninIndia_16116160336180/CoalProductioninIndia)
 
 <br>
+
+<li>
+ 
+[Renewables OverTake Fossils](https://public.tableau.com/profile/lisa7954#!/vizhome/TheRaceTowardsSustainability/RenewablesovertakeFossils)
+<br>
+
 You can find more details about each visualization below. 
 
 ## Global Temperature : Anomalies leading to global warming</ol>
@@ -32,11 +38,13 @@ The Charts here show trends in Temperature changes in the Global, Northern & Sou
 Globally, 2020 was the hottest year on record, effectively tying 2016, the previous record. Overall, Earth’s average temperature has risen more than 2 degrees Fahrenheit since the 1880s. Temperatures are increasing due to human activities, specifically emissions of greenhouse gases, like carbon dioxide and methane.
 
 <br>
-IMPACT : Encouraging Individuals for fights against Climate Change<br>
+IMPACT : Encouraging Individuals for fights against Climate Change,Paris Agreement, Global Warming<br>
 
 <b>About the Data </b><br>
 Data Courtesy : NASA<br>
 
+
+<img src="https://github.com/LISAPATEL98/TableauDashboards-/blob/main/The%20Earth%20is%20getting%20warmer.pdf" width="750" height="350">
 
  ##  HIV-AIDS & Gender Inequality among Adolescents</ol>
 
@@ -49,6 +57,8 @@ Data Courtesy : NASA<br>
   A multitude of inequities drives the HIV epidemic, but gender inequality is a major contributor to the continued spread of HIV globally: 
   Despite significant global progress in the work to reduce HIV infections and HIV/AIDS related deaths, women and girls continue to be disproportionately vulnerable to, and affected by HIV. 
 
+
+<img src="https://github.com/LISAPATEL98/TableauDashboards-/blob/main/Gender%20Inequality%20and%20HIVAIDS.pdf" width="750" height="350">
 
 ## <u>San-Francisco's Airbnb Listings Analysis</u>
   The analysis is divided into 4 sub-dashboards:
@@ -71,3 +81,17 @@ This analysis shows depth about how coal mining is done in India.
  
  <b>About the Data </b><br>
   Data Courtesy : Harvard Dataverse<br>
+  
+## <u>Renewables OverTake Fossils</u>
+
+Renewables rose to generate 38% of Europe’s electricity in 2020 (compared to 34.6% in 2019), for the first time overtaking fossil-fired generation, which fell to 37%. This is an important milestone in Europe’s Clean Energy Transition.
+
+Key Insights:<br>
+-Wind generation rose 9% in 2020 and solar generation rose 15%. Together they generated a fifth of Europe’s electricity in 2020. Since 2015, wind and solar have supplied all of Europe’s growth in renewables, as bioenergy growth has stalled, and hydro generation remains unchanged.
+<br>
+-Renewables rise is still too slow – wind and solar generation growth must nearly triple to reach Europe’s 2030 green deal targets: from 38 TWh per year average growth in 2010-2020 to 100 TWh per year average growth between 2020-2030.
+
+ IMPACT : Climate Change, Renewable Energy, Paris Agreement, Global Warming<br>
+
+ <b>About the Data </b><br>
+  Data Courtesy : [EMBER](https://ember-climate.org/project/eu-power-sector-2020/)
