@@ -22,14 +22,13 @@ You can find my Tableau profile [here.](https://public.tableau.com/profile/lisa7
 
 <li>
  
+[Renewables OverTake Fossils](https://public.tableau.com/profile/lisa7954#!/vizhome/TheRaceTowardsSustainability/RenewablesovertakeFossils)
+<li>
+ 
 [Coal Mines in India](https://public.tableau.com/profile/lisa7954#!/vizhome/CoalProductioninIndia_16116160336180/CoalProductioninIndia)
 
 <br>
 
-<li>
- 
-[Renewables OverTake Fossils](https://public.tableau.com/profile/lisa7954#!/vizhome/TheRaceTowardsSustainability/RenewablesovertakeFossils)
-<br>
 
 You can find more details about each visualization below. 
 
@@ -44,44 +43,8 @@ IMPACT : Encouraging Individuals for fights against Climate Change,Paris Agreeme
 Data Courtesy : NASA<br>
 
 
-<img src="https://github.com/LISAPATEL98/TableauDashboards-/blob/main/The%20Earth%20is%20getting%20warmer.pdf" width="750" height="350">
+<img src="https://github.com/LISAPATEL98/TableauDashboards-/blob/main/images/image2.png" width="850" height="450">
 
- ##  HIV-AIDS & Gender Inequality among Adolescents</ol>
-
-  <li>The ultimate goal of Visual is to create a space where data advocacy and insights meet impact. This work seeks to ignite a data advocacy effort with the power to not only raise awareness of extreme gender inequality, but also catalyze global action to end it. <br>
- 
- IMPACT : Awarness about how Gender Equality plays a role in HIV-AIDS amongst Adolescents <br>
- 
- <b>About the Data </b><br>
-  Data Courtesy : UNICEF<br>
-  A multitude of inequities drives the HIV epidemic, but gender inequality is a major contributor to the continued spread of HIV globally: 
-  Despite significant global progress in the work to reduce HIV infections and HIV/AIDS related deaths, women and girls continue to be disproportionately vulnerable to, and affected by HIV. 
-
-
-<img src="https://github.com/LISAPATEL98/TableauDashboards-/blob/main/Gender%20Inequality%20and%20HIVAIDS.pdf" width="750" height="350">
-
-## <u>San-Francisco's Airbnb Listings Analysis</u>
-  The analysis is divided into 4 sub-dashboards:
- <ul> <li> Filtering accomodations based on location, room type, price & policies<br>
-  <li>Analysis the most expensive neighbourhoods in San Francisco<br>
-  <li>Growth of no. of listings in San Francisco over the years<br>
-  <li>Findings & EDA <br></ul>
-
-  <b>About the Data </b><br>
-  Data Courtesy : Inside Airbnb <br>
-  By analyzing publicly available information about a city's Airbnb's listings, Inside Airbnb provides filters and key metrics so you can see how Airbnb is being used to compete with the residential housing market.
-
-  This dataset contains 8,111 listings in San Francisco of 4,303 hosts from 2009-2019.
- 
-## <u>Coal mines of India</u>
-Coal use needs to rapidly decline in the global energy mix in the next few decades in order to meet the Paris climate goals of keeping global warming well below 2-degrees Celsius. In emerging economies such as India (the second largest producer and consumer of coal) this would entail reducing long-term coal dependency. 
-This analysis shows depth about how coal mining is done in India.
- 
- IMPACT : Climate Change, Just Transitions, Coal Mining <br>
- 
- <b>About the Data </b><br>
-  Data Courtesy : Harvard Dataverse<br>
-  
 ## <u>Renewables OverTake Fossils</u>
 
 Renewables rose to generate 38% of Europe’s electricity in 2020 (compared to 34.6% in 2019), for the first time overtaking fossil-fired generation, which fell to 37%. This is an important milestone in Europe’s Clean Energy Transition.
@@ -95,3 +58,45 @@ Key Insights:<br>
 
  <b>About the Data </b><br>
   Data Courtesy : [EMBER](https://ember-climate.org/project/eu-power-sector-2020/)
+
+<img src= "https://github.com/LISAPATEL98/TableauDashboards-/blob/main/images/The%20Race%20towards%20sustainablity.png"  width="850" height="450">
+
+ ##  HIV-AIDS & Gender Inequality among Adolescents</ol>
+
+  <li>The ultimate goal of Visual is to create a space where data advocacy and insights meet impact. This work seeks to ignite a data advocacy effort with the power to not only raise awareness of extreme gender inequality, but also catalyze global action to end it. <br>
+ 
+ IMPACT : Awarness about how Gender Equality plays a role in HIV-AIDS amongst Adolescents <br>
+ 
+ <b>About the Data </b><br>
+  Data Courtesy : UNICEF<br>
+  A multitude of inequities drives the HIV epidemic, but gender inequality is a major contributor to the continued spread of HIV globally: 
+  Despite significant global progress in the work to reduce HIV infections and HIV/AIDS related deaths, women and girls continue to be disproportionately vulnerable to, and affected by HIV. 
+
+
+<img src="https://github.com/LISAPATEL98/TableauDashboards-/blob/main/images/image3.png" width="850" height="450">
+
+## <u>San-Francisco's Airbnb Listings Analysis</u>
+  The analysis is divided into 4 sub-dashboards:
+ <ul> <li> Filtering accomodations based on location, room type, price & policies<br>
+  <li>Analysis the most expensive neighbourhoods in San Francisco<br>
+  <li>Growth of no. of listings in San Francisco over the years<br>
+  <li>Findings & EDA <br></ul>
+
+  <b>About the Data </b><br>
+  Data Courtesy : Inside Airbnb <br>
+  By analyzing publicly available information about a city's Airbnb's listings, Inside Airbnb provides filters and key metrics so you can see how Airbnb is being used to compete with the residential housing market.
+
+  This dataset contains 8,111 listings in San Francisco of 4,303 hosts from 2009-2019.
+  
+  
+<img src="https://github.com/LISAPATEL98/TableauDashboards-/blob/main/images/image1.png" width="850" height="450">
+ 
+## <u>Coal mines of India</u>
+Coal use needs to rapidly decline in the global energy mix in the next few decades in order to meet the Paris climate goals of keeping global warming well below 2-degrees Celsius. In emerging economies such as India (the second largest producer and consumer of coal) this would entail reducing long-term coal dependency. 
+This analysis shows depth about how coal mining is done in India.
+ 
+ IMPACT : Climate Change, Just Transitions, Coal Mining <br>
+ 
+ <b>About the Data </b><br>
+  Data Courtesy : Harvard Dataverse<br>
+  
