@@ -6,23 +6,23 @@ You can find my Tableau profile [here.](https://public.tableau.com/profile/lisa7
 
 ## Links to Dashboard
 <li>
-
+ 
 [Global Temperature : Anomalies leaading to global warming](https://public.tableau.com/profile/lisa7954#!/vizhome/TheEarthisheatingupWhatareyoudoingforsavingthePlanet/TheEarthisgettingwarmer)
 <br>
 <li>
-
-[HIV-AIDS & Gender Inequality among Adolescents](https://public.tableau.com/profile/lisa7954#!/vizhome/GenderInequalityandHIV-AIDSamongAdolescents/GenderInequalityandHIVAIDS)
-
+ 
+[Renewables OverTake Fossils](https://public.tableau.com/profile/lisa7954#!/vizhome/TheRaceTowardsSustainability/RenewablesovertakeFossils)
+<li>
+ 
+[Perceived Obstacles to Gender Equality](https://public.tableau.com/profile/lisa7954#!/vizhome/PerceivedObstaclestoGenderEquality_16128250632890/PerceivedObstaclestoGenderEquality)
 
 <li>
 
+[HIV-AIDS & Gender Inequality among Adolescents](https://public.tableau.com/profile/lisa7954#!/vizhome/GenderInequalityandHIV-AIDSamongAdolescents/GenderInequalityandHIVAIDS)
+<li>
 
 [San-Francisco's Airbnb Listings Analysis](https://public.tableau.com/profile/lisa7954#!/vizhome/SanFranciscosAirbnbListingsAnalysis/Airbnb)
 <br>
-
-<li>
- 
-[Renewables OverTake Fossils](https://public.tableau.com/profile/lisa7954#!/vizhome/TheRaceTowardsSustainability/RenewablesovertakeFossils)
 <li>
  
 [Coal Mines in India](https://public.tableau.com/profile/lisa7954#!/vizhome/CoalProductioninIndia_16116160336180/CoalProductioninIndia)
@@ -61,6 +61,16 @@ Key Insights:<br>
 
 <img src= "https://github.com/LISAPATEL98/TableauDashboards-/blob/main/images/The%20Race%20towards%20sustainablity.png"  width="850" height="450">
 
+ ## Perceived Obstacles to Gender Equality</ol>
+ <li> 
+The Focus 2030 and Women Deliver unveiled the findings of Citizens Call for a Gender-Equal World: A Roadmap for Action, a first-of-its-kind international survey on public perceptions of gender equality.
+This visual represents the results of survey “a civil society-centered, global gathering for gender equality.” ~1000 resoponses.<br>
+IMPACT : Gender Inequality, Focus2030, End GenderGap<br>
+ 
+<b>About the Data </b><br>
+  Data Courtesy : Focus 2030 UN
+<img src= "https://github.com/LISAPATEL98/TableauDashboards-/blob/main/images/Perceived%20Obstacles%20to%20Gender%20Equality%20.png"  width="850" height="450">
+ 
  ##  HIV-AIDS & Gender Inequality among Adolescents</ol>
 
   <li>The ultimate goal of Visual is to create a space where data advocacy and insights meet impact. This work seeks to ignite a data advocacy effort with the power to not only raise awareness of extreme gender inequality, but also catalyze global action to end it. <br>
